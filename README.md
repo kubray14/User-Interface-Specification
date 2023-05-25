@@ -1,2 +1,8 @@
-# User-Interface-Specification
-Technical Assignment
+# User Management Screen - User Interface Specification
+## Requirements
+User Management Screen is a web-based interface designed to manage user information in the system. The main purpose of this screen is to provide administrators with the ability to add user records. The user interface should be intuitive, user-friendly, and efficient at managing user interactions.
+## Initial State
+Upon accessing the User Management Screen, the following components and information should be displayed:
+1. User List: A table or list displaying existing user records with relevant details such as user ID, username, email, and if enabled is true or false.
+2. Action Buttons: New User and Save User buttons should be available to perform corresponding actions on selected users.
+3. Sorting: User should be able to filter by user ID, username, email and enabled properties.
