@@ -11,3 +11,14 @@ User Management Screen is a web-based interface designed to manage user informat
 
 Clicking the "New User" button opens a modal or a separate page with a form to enter user details such as username, display name, phone, email, user role and if user enabled or not.
 Required fields should be marked accordingly.
+
+**Saving a User:**
+Clicking the "save user" button should save the user whose information you entered into the system.
+
+## User Interface Components
+**The following UI components should be implemented in the User Management Screen:**
+
+**User List:** A table or list displaying user records with relevant details.
+**New User Button:** A button to add a new user.
+**Save User Button:** A button to save the user and its information.
+**Pagination Controls:** Buttons or links to navigate through the pages of user records.
