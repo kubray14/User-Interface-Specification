@@ -19,7 +19,9 @@ Clicking the "save user" button should save the user whose information you enter
 **The following UI components should be implemented in the User Management Screen:**
 
 **User List:** A table or list displaying user records with relevant details.
+
 **New User Button:** A button to add a new user.
+
 **Save User Button:** A button to save the user and its information.
 
 **Pagination Controls:** Buttons or links to navigate through the pages of user records.
